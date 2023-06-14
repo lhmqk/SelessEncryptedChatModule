@@ -1,0 +1,4 @@
+<div *ngIf="chat" (dblclick)="edit.emit(chat)">
+  <h2>{{ chat?.username }}</h2>
+  <p>{{ chat?.message }}</p>
+</div>

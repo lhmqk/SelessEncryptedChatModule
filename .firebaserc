@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "xelex-chat": {
+      "hosting": {
+        "client-xelex-chat": [
+          "xelex-chat"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "xelex-chat"
+  }
+}
